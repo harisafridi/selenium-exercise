@@ -1,9 +1,9 @@
 
 
+#Seleniuim CheatSheet
 
 gem install selenium-webdriver
 
-#Gemfile:
 gem 'seleium-webdriver'
 
 browser= Selenium::WebDriver.for :firefox  //
